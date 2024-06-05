@@ -1,4 +1,5 @@
-<h1>Salifort Motors Project</h1>
+<h1>Employee Attrition Analysis and Prediction</h1>
+<h3>(Salifort Motors Project)</h3>
 
  ### [Google Advanced Data Analytics Certificate](https://github.com/fouzan-akhter/salifortmotors_project)
 
